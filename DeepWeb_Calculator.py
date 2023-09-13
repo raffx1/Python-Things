@@ -71,8 +71,8 @@ while True:
             if resp6 == 2:
                 break
         else:
-            print('Seu imbecil, é de 1 a 4')
+            print('Respostas de 1 a 4 apenas.')
             continue
     else:
-        print('Foda-se')
+        print('Então tchau!')
         break
